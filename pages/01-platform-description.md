@@ -41,6 +41,6 @@ In spite of their performance, pelagic BRUVs suffer from a number of limitations
 *   Counts of wildlife on BRUVs reflect measures of _relative_ rather than _absolute_ abundance and can be biased, e.g. by screen saturation (Lowry et al. 2011, Schobernd et al. 2013).
 *   Detection/attraction probabilities likely vary by time of day, habitat, bathome, and species.
 *   Zero-inﬂation is common and may undermine the statistical power needed to identify patterns and changes in pelagic communities (Santana-Garcon et al. 2014b).
-*   Benthic "species contamination" can occur wherever the ratio between suspension and seabed depths approaches one (e.g. pelagic BRUVs suspended at 10 m in a total of 15 m of water) (Letessier et al. 2013b), but see Clarke et al. (In press) for a comparison of benthic and pelagic assemblages and their overlap at different depths. 
+*   Benthic "species contamination" can occur wherever the ratio between suspension and seabed depths approaches one (e.g. pelagic BRUVs suspended at 10 m in a total of 15 m of water) (Letessier et al. 2013b), but see Clarke et al. (2019) for a comparison of benthic and pelagic assemblages and their overlap at different depths. 
 
 Further discussion of some of these caveats can be found in Bouchet & Meeuwig (2015), Santana-Garcon et al. (2014b) and Espinoza et al. (2014), among many others.
