@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "Pelagic stereo BRUVs"
+title: "Pelagic stereo-BRUVs"
 excerpt: "(Baited Remote Underwater Videos)"
 image:
   feature: /banners/00_banner.jpg
